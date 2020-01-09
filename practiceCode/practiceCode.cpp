@@ -3,8 +3,9 @@
 #include <string>
 #include <ctime>
 #include <algorithm>
-#define cards 52
+#define CARDSNUM 52
 
+#if 0
 using namespace std;
 class dealer {//set dealer
 public:
@@ -108,3 +109,11 @@ int main() {
 	}
 	return 0;
 }
+#endif
+enum class sortMethods
+{
+	SORT_BY_NUMBER,
+	SORT_BY_SUIT,
+	SORT_BY_VALUE,
+	NONE,
+};
