@@ -1,4 +1,8 @@
 ﻿  practiceCode.cpp
-C:\Users\starr\Desktop\practiceCode\practiceCode\practiceCode.cpp(27,21): warning C4018: '<': signed/unsigned 不相符
-C:\Users\starr\Desktop\practiceCode\practiceCode\practiceCode.cpp(145,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\starr\Desktop\practiceCode\practiceCode\practiceCode.cpp(30,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\starr\Desktop\practiceCode\practiceCode\practiceCode.cpp(90,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\starr\Desktop\practiceCode\practiceCode\practiceCode.cpp(102,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\starr\Desktop\practiceCode\practiceCode\practiceCode.cpp(301,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\starr\Desktop\practiceCode\practiceCode\practiceCode.cpp(328,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\starr\Desktop\practiceCode\practiceCode\practiceCode.cpp(232): warning C4715: 'Dealer::discriminate': 不是所有控制路徑都傳回值
   practiceCode.vcxproj -> C:\Users\starr\Desktop\practiceCode\Debug\practiceCode.exe
